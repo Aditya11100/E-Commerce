@@ -1,0 +1,22 @@
+export const COLORS = {
+  white: "#fff",
+  black: "#000",
+  olive: "#808000",
+  lightslategrey: "#778899",
+  slategray: "#708090",
+  gray: "#808080",
+  honeydew: "#f0fff0",
+  darkgreen: "#006400",
+  limegreen: "#32cd32",
+  darkblue: "#00008b",
+  lightskyblue: "#87cefa",
+  darkorchid: "#9932cc",
+  orchid: "#da70d6",
+  orangered: "#ff4500",
+  darkorange: "#ff8c00",
+  mediumblue: "#0000cd",
+  lightgray: "#d3d3d3",
+  darkgray: "#a9a9a9",
+  royalblue: "#4169e1",
+  // your colors
+};
